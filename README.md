@@ -19,37 +19,37 @@ A página foi desenvolvida utilizando **HTML5** para a estruturação e **CSS3**
 
 1. **Clone o repositório:**
 
-   **terminal**
+   **terminal**<br>
    git clone https://github.com/joaoguilherme96/HashtagLoginClone.git
 
 2. Acesse o diretório do projeto:
 
-   **terminal**
+   **terminal**<br>
    cd nome-do-projeto
 
 3. Abra o arquivo HTML no seu navegador:
 
-Abra o arquivo index.html no seu navegador favorito para visualizar o projeto.
+   Abra o arquivo index.html no seu navegador favorito para visualizar o projeto.
 
 ## Estrutura de Diretórios
 
 O projeto segue a seguinte estutura
 
-/Pagina Login Hashtag
-│
-├──/static # Pasta com arquivos estáticos do projeto
-│────├── imagem-fundo.png # Imagem de fundo da página
-│────├── style.css # Estilos principais CSS
-└── index.html # Arquivo principal HTML
+/Pagina Login Hashtag<br>
+│<br>
+├──/static # Pasta com arquivos estáticos do projeto<br>
+│────├── imagem-fundo.png # Imagem de fundo da página<br>
+│────├── style.css # Estilos principais CSS<br>
+└── index.html # Arquivo principal HTML<br>
 
 ## Como Contribuir
 
-Faça um fork deste repositório.
-Crie uma branch para a sua feature (git checkout -b minha-feature).
-Faça suas alterações e adicione as mudanças (git add .).
-Commit suas alterações (git commit -m 'Adicionando minha feature').
-Envie para o repositório remoto (git push origin minha-feature).
-Abra um Pull Request para que possamos revisar suas alterações.
+- Faça um fork deste repositório;
+- Crie uma branch para a sua feature (git checkout -b minha-feature);
+- Faça suas alterações e adicione as mudanças (git add .);
+- Commit suas alterações (git commit -m 'Adicionando minha feature');
+- Envie para o repositório remoto (git push origin minha-feature);
+- Abra um Pull Request para que possamos revisar suas alterações.
 
 ## Licença
 
