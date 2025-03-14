@@ -20,12 +20,12 @@ A página foi desenvolvida utilizando **HTML5** para a estruturação e **CSS3**
 1. **Clone o repositório:**
 
    **terminal**<br>
-   git clone https://github.com/joaoguilherme96/HashtagLoginClone.git
+   <code>git clone https://github.com/joaoguilherme96/HashtagLoginClone.git</code>
 
 2. Acesse o diretório do projeto:
 
    **terminal**<br>
-   cd nome-do-projeto
+   <code>cd nome-do-projeto</code>
 
 3. Abra o arquivo HTML no seu navegador:
 
