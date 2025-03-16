@@ -45,6 +45,7 @@ O projeto segue a seguinte estutura
 ## Como Contribuir
 
 - Faça um fork deste repositório;
+- Clone o repositório derivado do fork com git clone https://github.com/seu-usuario/nome-do-repositorio.git;
 - Crie uma branch para a sua feature (git checkout -b minha-feature);
 - Faça suas alterações e adicione as mudanças (git add .);
 - Commit suas alterações (git commit -m 'Adicionando minha feature');
