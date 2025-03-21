@@ -8,7 +8,7 @@ O objetivo deste projeto é recriar a página de login da Hashtag treinamentos c
 
 Este é um projeto de **HTML e CSS** que visa a replicação de página de login da Hashtag Treinamentos utilizando HTML semântico, e as melhores práticas de CSS, bem como o aninhamento de CSS (CSS nesting) para melhor organização do código.
 
-A página foi desenvolvida utilizando **HTML5** para a estruturação e **CSS3** para o estilo. O layout é responsivo, ou seja, pode ser visualizado tanto em monitores, até dispositivos móveis, mantendo um layout agradável, e a ideia é demonstrar a capacidade de contrução do front-end de uma página de login adáptavel aos mais diversos tamanhos de telas.
+A página foi desenvolvida utilizando **HTML5** para a estruturação e **CSS3** para o estilo. O layout primeiramente é voltado para desktop,porém a responsividade será trabalhada, a ideia é demonstrar a capacidade de contrução do front-end de uma página de login adáptavel aos mais diversos tamanhos de telas.
 
 ## Tecnologias Utilizadas
 
