@@ -1,5 +1,11 @@
 # Clone da página de login da Hashtag Treinamentos
 
+## Aviso
+
+Este projeto foi desenvolvido com fins educativos e para demonstração de habilidades. Não possuo vínculo oficial com a Hashtag Treinamentos/Programação, e é apenas uma recriação de uma página de login inspirada no design e funcionalidade do site oficial da instituição.
+
+O código aqui apresentado não é de propriedade da Hashtag Treinamentos/Programação, e qualquer semelhança com o site original é meramente para fins de estudo e prática.
+
 ## Objetivo
 
 O objetivo deste projeto é recriar a página de login da Hashtag treinamentos com HTML e CSS puro.
