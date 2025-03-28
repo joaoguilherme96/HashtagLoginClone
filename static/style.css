@@ -16,7 +16,7 @@ body {
 }
 
 section {
-  background-image: url("/static/imagem-fundo.png");
+  background-image: url("./imagem-fundo.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
